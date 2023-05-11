@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Locumbay Admin Panel",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#20606D",
   "background_color": "#ffffff"
 }
