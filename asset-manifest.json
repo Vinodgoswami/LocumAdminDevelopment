@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5387cd0b.chunk.css",
-    "main.js": "/static/js/main.60838df3.chunk.js",
+    "main.css": "/static/css/main.4a7084b8.chunk.css",
+    "main.js": "/static/js/main.53b621d3.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.0009242c.js",
     "static/css/2.156c1e4e.chunk.css": "/static/css/2.156c1e4e.chunk.css",
     "static/js/2.be263b84.chunk.js": "/static/js/2.be263b84.chunk.js",
@@ -59,6 +59,7 @@
     "static/media/map_icon.5c490c0e.svg": "/static/media/map_icon.5c490c0e.svg",
     "static/media/messages_icon.7bd50be6.svg": "/static/media/messages_icon.7bd50be6.svg",
     "static/media/notUploaded.4515c3c2.svg": "/static/media/notUploaded.4515c3c2.svg",
+    "static/media/not_uploaded.e587a4fb.svg": "/static/media/not_uploaded.e587a4fb.svg",
     "static/media/notification_icon.cdcaa659.svg": "/static/media/notification_icon.cdcaa659.svg",
     "static/media/styles.scss": "/static/media/nurse_vector.412251fc.png",
     "static/media/p_management_icon.533718ac.svg": "/static/media/p_management_icon.533718ac.svg",
@@ -93,7 +94,7 @@
     "static/js/runtime-main.0009242c.js",
     "static/css/2.156c1e4e.chunk.css",
     "static/js/2.be263b84.chunk.js",
-    "static/css/main.5387cd0b.chunk.css",
-    "static/js/main.60838df3.chunk.js"
+    "static/css/main.4a7084b8.chunk.css",
+    "static/js/main.53b621d3.chunk.js"
   ]
 }
