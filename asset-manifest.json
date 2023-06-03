@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.98b0af63.css",
-    "main.js": "/static/js/main.5cc0c805.js",
+    "main.js": "/static/js/main.b2b24b30.js",
     "static/js/922.f275c370.chunk.js": "/static/js/922.f275c370.chunk.js",
     "pdf.worker.js": "/afde853aee8652901c2b82e48750cfa3.js",
     "static/media/illustrator.svg": "/static/media/illustrator.13a12eca216e9c35db3d1f343a9f4dc5.svg",
     "static/media/chat_panel.svg": "/static/media/chat_panel.8d1047d47ae7607e3391afe168f18c09.svg",
+    "static/media/map_marker.png": "/static/media/map_marker.7564b1820d629a6a165d.png",
     "static/media/default_pic.jpg": "/static/media/default_pic.8aaeda8821ab801b5afa.jpg",
     "static/media/locumbay-logo.png": "/static/media/locumbay-logo.b5bbb70b66ae39ddb3af.png",
     "static/media/web_icon.svg": "/static/media/web_icon.2ec1af2ef5c0de1286a877deabc032db.svg",
@@ -81,6 +82,7 @@
     "static/media/arrowDown.svg": "/static/media/arrowDown.1947d3bb08db52aeef3246ad5db02631.svg",
     "static/media/arrow_rht.svg": "/static/media/arrow_rht.4097f2d754338fdc935620ac935928b6.svg",
     "static/media/arrowupSort.svg": "/static/media/arrowupSort.aa33c5295881aea4787c1a1816a83e8a.svg",
+    "static/media/location_icon.svg": "/static/media/location_icon.fda1bfe8599526dd6a6500ede8210e78.svg",
     "static/media/check_icon.svg": "/static/media/check_icon.2a092af73a13679f9bcb.svg",
     "static/media/reset.svg": "/static/media/reset.fc2b44e3f217a3324e5508a369d76f5f.svg",
     "static/media/whiteTick.svg": "/static/media/whiteTick.4f0baa081f59e605ac40a1024f3b4542.svg",
@@ -88,6 +90,6 @@
   },
   "entrypoints": [
     "static/css/main.98b0af63.css",
-    "static/js/main.5cc0c805.js"
+    "static/js/main.b2b24b30.js"
   ]
 }
