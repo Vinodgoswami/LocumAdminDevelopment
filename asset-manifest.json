@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cd1ac240.css",
-    "main.js": "/static/js/main.5c175092.js",
+    "main.js": "/static/js/main.c40a2292.js",
     "static/js/922.f275c370.chunk.js": "/static/js/922.f275c370.chunk.js",
     "pdf.worker.js": "/afde853aee8652901c2b82e48750cfa3.js",
     "static/media/illustrator.svg": "/static/media/illustrator.13a12eca216e9c35db3d1f343a9f4dc5.svg",
@@ -29,7 +29,7 @@
     "static/media/i_icon_black.svg": "/static/media/i_icon_black.2a7a027eaa6061bd54d758faf88b7179.svg",
     "static/media/i_icon_red.svg": "/static/media/i_icon_red.b02274530c10f52f10abb37b62f88b83.svg",
     "static/media/clear_chat_icon.svg": "/static/media/clear_chat_icon.5a515962bd0994d8f9448cea2f84dc39.svg",
-    "static/media/archive_icon.svg": "/static/media/archive_icon.e386f2bab6c68d40cf3eb1855846783f.svg",
+    "static/media/archive_icon.svg": "/static/media/archive_icon.388bd72a1d6e15bf96bcc41548bc6251.svg",
     "static/media/phone.svg": "/static/media/phone.a4c6eb30a40258e1a8096494d9db1fd9.svg",
     "static/media/pharamacy_user_icon.svg": "/static/media/pharamacy_user_icon.4e6d840ec6eec0ffc29e0fc803b31fea.svg",
     "static/media/block_icon.svg": "/static/media/block_icon.f8475cac46db6ba52021450fbc135b82.svg",
@@ -46,6 +46,7 @@
     "static/media/email_icon.svg": "/static/media/email_icon.0629c93942537de751dda78df57b853c.svg",
     "static/media/star_icon.svg": "/static/media/star_icon.baff0f62833f7c3faa041642d9b47430.svg",
     "static/media/blue_star_icon.svg": "/static/media/blue_star_icon.da2a6e247ab84dfac82cf02e217db51a.svg",
+    "static/media/unarchived_icon.svg": "/static/media/unarchived_icon.da614f843f62d6b649dcf697e36351fc.svg",
     "static/media/p_management_icon.svg": "/static/media/p_management_icon.533718ac1f519f60e90f8e5b771ced55.svg",
     "static/media/user_block.svg": "/static/media/user_block.c48ec5e3f6529704f9b84547a080f510.svg",
     "static/media/archive_icon_lg.svg": "/static/media/archive_icon_lg.732bd4670dfeb71c21f867d2ba6bd175.svg",
@@ -92,6 +93,6 @@
   },
   "entrypoints": [
     "static/css/main.cd1ac240.css",
-    "static/js/main.5c175092.js"
+    "static/js/main.c40a2292.js"
   ]
 }
